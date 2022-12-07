@@ -1,4 +1,4 @@
-![sexy webm](cubez.webm)
+![sexy gif](cubez.gif)
 
 A very simple random rotation and size change visual with a matrix of rectangular boxes. 
 Both the rotation and size change are made so they 'slow down' as they get closer to their limit, _for a softer visual experience_
